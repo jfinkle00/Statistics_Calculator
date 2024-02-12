@@ -1,10 +1,7 @@
 import statistics as stats
 import math
 import PySimpleGUI as sg
-import time
-import threading
 import scipy.stats as st
-import PyInstaller
 import matplotlib.pyplot as plt
 import pandas as pd
 import csv
