@@ -113,12 +113,7 @@ col1
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**Jason Finkle**  
 Feel free to contribute or suggest improvements via pull requests or issues!
 
 ---
-
-## 📄 License
-
-MIT License  
-See `LICENSE` for more information.
