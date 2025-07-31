@@ -1,4 +1,4 @@
-#📊 Single Mean Statistics Calculator
+📊 Single Mean Statistics Calculator
 
 A user-friendly desktop GUI application (built with PySimpleGUI) for calculating statistical summaries, visualizing distributions, and analyzing confidence intervals for a single numerical dataset.
 
@@ -24,12 +24,19 @@ Histogram
 📦 Descriptive Statistics for column in uploaded file
 
 🖼️ GUI Overview
+
 Feature	Description
+
 File Upload	Enter file path to a .csv file
+
 Column Selector	Specify the column name to analyze
+
 Manual Data Input	Enter a comma-separated list of values
+
 Manual Parameters	Input mean, standard deviation, count, and x-value
+
 Confidence Level	Default is 0.95
+
 Buttons	Trigger statistical calculations or visualizations
 
 🛠️ Technologies Used
@@ -80,6 +87,7 @@ Enter column name
 Click "File Stat Summary" or plot buttons
 
 📁 File Format
+
 CSV files should be structured with a header row and at least one column of numeric data:
 
 nginx
@@ -103,6 +111,7 @@ Range, Quantiles, Coefficient of Variation
 Descriptive summary for uploaded files
 
 🧪 Future Enhancements
+
 Support for two-sample comparisons
 
 Export results to PDF/CSV
@@ -112,5 +121,7 @@ Integration of normality tests
 GUI enhancements with dark mode
 
 🧑‍💻 Author
-Your Name
+
+Jason Finkle
+
 Feel free to contribute or suggest improvements via pull requests or issues!
